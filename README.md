@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
 - 📫 How to reach me: Just send me an email: williamrask01@gmail.com
-- 😄 Pronouns: He
 - ⚡ Fun fact: I like videogames! :D
 
 <!---
