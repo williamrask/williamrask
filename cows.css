@@ -1,0 +1,8 @@
+
+body::before {
+    background-color: black;
+}
+
+.cinema-section {
+    z-index: 1;
+}
