@@ -53,7 +53,12 @@ nav {
     display: flex;
 }
 
-nav a {
+.random-knappar {
+    display: flex;
+    margin-top: 60px;
+}
+
+nav a, .random-knappar a {
     padding: 10px 20px;
     width: 195px;
     color: white;
@@ -66,7 +71,11 @@ nav a {
     margin: 0 10px;
 }
 
-nav a:hover{
+.random-knappar a{
+    margin: 0 50px 0;
+}
+
+nav a:hover, .hero-section a:hover{
     background-color: #39FF14;
     color: white;
     text-shadow: -3px 2px 6px rgba(0,0,0,0.81);
