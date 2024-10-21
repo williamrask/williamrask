@@ -1,0 +1,9 @@
+
+body::before {
+    background-color: black;
+}
+
+.bild-section {
+    z-index: 1;
+    color: white;
+}

@@ -73,6 +73,7 @@ nav a, .random-knappar a {
 
 .random-knappar a{
     margin: 0 50px 0;
+    width: 130px;
 }
 
 nav a:hover, .hero-section a:hover{
@@ -98,11 +99,14 @@ header .container {
     align-items: center;
 }
 
-.hero-section h1 {
+h1 {
     color: white;
-    text-align: center;
     font-size: 3.8rem;
     text-transform: uppercase;
+}
+
+p {
+    color: white;
 }
 
 hr {
